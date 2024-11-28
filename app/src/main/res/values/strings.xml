@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Baguio</string>
+    <string name="category_icon">Category Icon</string>
+    <string name="place_icon">Place Icon</string>
+</resources>
